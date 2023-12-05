@@ -5,6 +5,7 @@ This project focuses on fraud detection in insurance claims using data analysis 
 Files:
 
 [insurance_claims.csv](https://github.com/samppaalek/fraud_detection/blob/main/insurance_claims.csv) The dataset containing information about insurance claims
+
 [fraud_detection_model.joblib](fraud_detection_model.joblib) The saved RandomForestClassifier model after training.
 
 Project Structure:
