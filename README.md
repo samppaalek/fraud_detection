@@ -6,7 +6,7 @@ Files:
 
     [insurance_claims.csv: The dataset containing information about insurance claims](https://github.com/samppaalek/fraud_detection/blob/main/insurance_claims.csv)
     fraud_detection_model.joblib: The saved RandomForestClassifier model after training.
-
+[I'm an inline-style link](https://www.google.com) 
 Project Structure
 
     1. EDA and Data Visualization:
